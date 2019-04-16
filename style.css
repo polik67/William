@@ -1,0 +1,119 @@
+
+body {
+	background-image: url("images/bg.jpg"); 
+	max-height: 200%;
+	position: block;
+	background-repeat: repeat;
+}
+
+
+
+#p1 {
+	font-size: 25px;
+	margin-left: 400px;
+	color: white;
+	margin-top: 12px;
+	font-family: Garamond;
+	margin-right: 85px;
+
+}
+
+#p2 {
+	font-size: 25px;
+	color: white;
+	font-family: Garamond;
+	padding-top: 10px;
+	margin-left: 90px;
+	margin-right: 430px;
+}
+
+
+#p3 {
+
+	font-size: 35px;
+	color: white;
+	font-family: Garamond;
+	padding-top: 250px;
+	text-align: center;
+
+}
+
+
+ h1 {
+ 	font-size: 35px;
+ 	font-family: "Trade Gothic LT Bold";
+ 	color: white;
+ 	position: absolute;
+ 	margin-left: 1450px;
+ 	margin-top: 55px;
+ }
+
+
+h2 {
+ 	font-size: 35px;
+ 	font-family: "Trade Gothic LT Bold";
+ 	color: white;
+ 	position: absolute;
+ 	margin-left: 1572px;
+ 	margin-top: 55px;
+ }
+
+
+h3 {
+ 	font-size: 35px;
+ 	font-family: "Trade Gothic LT Bold";
+ 	color: white;
+ 	position: absolute;
+ 	margin-left: 1700px;
+ 	margin-top: 55px;
+
+ }
+
+
+h4 {
+ 	font-size: 70px;
+ 	font-family: "Trade Gothic LT Bold";
+ 	color: white;
+ 	position: absolute;
+ 	margin-top: 135px;
+
+ }
+
+
+
+
+img {
+	max-width: 40%;
+	margin-left: 15px;
+	margin-top: 15px;
+	position: absolute;
+}
+
+
+
+
+
+@font-face {
+    font-family: "Trade Gothic LT Bold";
+    src: url('fonts/trade Gothic LT Bold.ttf');
+   
+}
+
+
+.one {
+	padding-top: 250px;
+	margin-left: 75px;
+}
+
+
+.two {
+	padding-top: 140px;
+	margin-left: 1475px;
+
+}
+
+.bg {
+	max-width: 1000px;
+	max-height: 1000px;
+
+}
